@@ -1,0 +1,16 @@
+rencana software
+
+module:
+  -> baca dan tulis RFID
+  -> lampu
+  -> tampil nama pemilik RFID
+  -> tampil di web
+  -> database id kartu
+
+main
+
+tidak memekai database json
+hanya berupa variable saja.
+
+misal ada 10 siswa yang terdaftar
+siswa = [disini ada data 10 siswa]
